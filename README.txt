@@ -1,5 +1,3 @@
-Zid: z5140507
-SName: Yunhan wang
 
 -Huffman tree:
 	Tree node attributes: frequency(key), value(character), left, right(for heap), parent, lchild, rchild.(for huffman tree)
